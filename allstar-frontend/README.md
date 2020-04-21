@@ -32,3 +32,6 @@ dependencies by opening the terminal and typing the following:
 2) Start the application:
 
   npm start
+
+Make sure that you have MongoDB installed as well:
+https://treehouse.github.io/installation-guides/mac/mongo-mac.html

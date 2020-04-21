@@ -31,6 +31,7 @@ the terminal and typing the following:
   npm install
 
 2) Make sure you have MongoDB installed and run Mongodb:
+https://treehouse.github.io/installation-guides/mac/mongo-mac.html
 
   mongod
 
