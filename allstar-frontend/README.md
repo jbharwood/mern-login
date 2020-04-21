@@ -1,7 +1,7 @@
-# Allstar Code Challenge Frontend
+## Allstar Code Challenge Frontend
 Created by Joseph Harwood
 
-#Description:
+##Description:
 
 This is the frontend for Allstars Code Challenge. These were the instructions.
 
@@ -12,18 +12,18 @@ times and read through notes supplied by the user.The user will be able to suppl
 time and a time worked in seconds, the backend will calculate their start time and store it
 as a date in the work document.
 
-#User Stories:
+###User Stories:
 As a user I want to sign up with my Email.
 As a user I want to create my work document.
 As a user I will supply my finish time & time worked in seconds.
 As a user I will be able to add notes to my work document.
 As a user I want to see, update, delete my documents.
-#Admin Stories:
+###Admin Stories:
 As an admin I want to see all my users.
 As an admin I want to see who worked between specific times.
 As an admin I want to be able to read the notes and search for a word.
 
-#Instructions
+##Instructions
 1) In order to run this, within the root directory make sure to install
 dependencies by opening the terminal and typing the following:
 
