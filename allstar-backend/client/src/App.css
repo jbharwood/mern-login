@@ -1,0 +1,99 @@
+* {
+  font: 100%;
+}
+
+.app {
+  text-align: left;
+  margin: 20px;
+}
+
+.home {
+  text-align: center;
+}
+
+.createDoc {
+  text-align: center;
+}
+
+h4 {
+  font-weight: bold;
+  /* color: $h4-color; */
+}
+
+.docs {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+}
+
+.doc {
+  flex: 0 0 49%;
+  height: 15%;
+  margin: 1% 1% 0 0;
+  border-style: solid;
+  border-width: 1px;
+  text-align: left;
+  border-left: 5px solid #3258a8;
+}
+
+.doc_list {
+  margin: -1% 0 0 -6.5%;
+}
+
+li {
+  list-style-type: none;
+  /* color: $li-color; */
+  padding: 2px;
+}
+
+.margin {
+  margin: 15px;
+}
+
+.new_doc {
+  text-align: right;
+}
+
+.button--create{
+  margin: -5% 1% 0 0;
+}
+
+.button--edit {
+  margin: -5% 1% 0 0;
+}
+
+.button--1{
+  justify-content: flex-start;
+}
+
+.button--2 {
+  justify-content: flex-end;
+}
+
+.button--3{
+  justify-content: flex-start;
+  margin-left: 38.25%
+}
+
+.button--4 {
+  justify-content: flex-end;
+  margin-right: 38.25%
+}
+
+.buttons {
+  display: flex;
+  flex-wrap:wrap;
+  justify-content: space-between;
+}
+
+.dates {
+  display: flex;
+  justify-content: space-between;
+}
+
+.date {
+  font-size: 95%;
+}
+.time {
+  text-align: center;
+}
