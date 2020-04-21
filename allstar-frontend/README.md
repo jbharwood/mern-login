@@ -27,11 +27,11 @@ As an admin I want to be able to read the notes and search for a word.
 1) In order to run this, within the root directory make sure to install
 dependencies by opening the terminal and typing the following:
 
-  npm install
+  `npm install`
 
 2) Start the application:
 
-  npm start
+  `npm start`
 
 Make sure that you have MongoDB installed as well:
 https://treehouse.github.io/installation-guides/mac/mongo-mac.html
