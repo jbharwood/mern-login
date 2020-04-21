@@ -13,15 +13,15 @@ time and a time worked in seconds, the backend will calculate their start time a
 as a date in the work document.
 
 #User Stories:
-● As a user I want to sign up with my Email.
-● As a user I want to create my work document.
-● As a user I will supply my finish time & time worked in seconds.
-● As a user I will be able to add notes to my work document.
-● As a user I want to see, update, delete my documents.
+As a user I want to sign up with my Email.
+As a user I want to create my work document.
+As a user I will supply my finish time & time worked in seconds.
+As a user I will be able to add notes to my work document.
+As a user I want to see, update, delete my documents.
 #Admin Stories:
-● As an admin I want to see all my users.
-● As an admin I want to see who worked between specific times.
-● As an admin I want to be able to read the notes and search for a word.
+As an admin I want to see all my users.
+As an admin I want to see who worked between specific times.
+As an admin I want to be able to read the notes and search for a word.
 
 #Instructions
 1) In order to run this, within the root directory make sure to install
