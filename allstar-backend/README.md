@@ -1,11 +1,11 @@
-## Allstar Code Challenge Backend
+## Allstar Backend
 Created by Joseph Harwood
 
 ## Description:
 
-This is the backend for Allstars Code Challenge. These were the instructions.
+This is the backend for Allstars working hours application.
 
-You will use Node.JS, MongoDb to create an API for an end user application. The
+This app uses Node.JS, MongoDb to create an API for an end user application. The
 application will have users who work for Allstar and supply their working hours to the API.
 An admin of the application will be able to query who worked between specified
 times and read through notes supplied by the user.The user will be able to supply a finish
