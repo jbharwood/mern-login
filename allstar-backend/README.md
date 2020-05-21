@@ -6,7 +6,7 @@ Created by Joseph Harwood
 This is the backend for a working hours application.
 
 This app uses Node.JS, MongoDb to create an API for an end user application. The
-application will have users who work for Allstar and supply their working hours to the API.
+application will have users supply their working hours to the API.
 An admin of the application will be able to query who worked between specified
 times and read through notes supplied by the user.The user will be able to supply a finish
 time and a time worked in seconds, the backend will calculate their start time and store it
