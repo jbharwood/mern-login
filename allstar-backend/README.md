@@ -3,7 +3,7 @@ Created by Joseph Harwood
 
 ## Description:
 
-This is the backend for Allstar's working hours application.
+This is the backend for a working hours application.
 
 This app uses Node.JS, MongoDb to create an API for an end user application. The
 application will have users who work for Allstar and supply their working hours to the API.
