@@ -3,7 +3,7 @@ Created by Joseph Harwood
 
 ## Description:
 
-This is the backend for a working hours application.
+This is the frontend for a working hours application.
 
 This app uses Node.JS, MongoDb to create an API for an end user application. The
 application will have users to supply their working hours to the API.
